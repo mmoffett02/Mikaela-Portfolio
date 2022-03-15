@@ -70,7 +70,7 @@
         height: 150px;
     }
     
-    .project1 {
+   .project1 {
         background-image: url("./images/Horiseon-ss.png");
     }
     
@@ -79,17 +79,16 @@
     }
     
     .project3 {
-        background-image: url("./images/cats1.jpg");
+        background-image: url("./images/mofftown-pic.jpg");
     }
     
     .project4 {
-        background-image: url("./images/cats2.jpg");
+        background-image: url("./images/password.jpg");
     }
     
     .project5 {
-        background-image: url("./images/cats3.jpg");
+        background-image: url("./images/css.jpg");
     }
-    
     #contacts {
         display: flex;
         background-color: #63aef5;
